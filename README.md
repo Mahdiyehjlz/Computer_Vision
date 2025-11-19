@@ -52,7 +52,6 @@ _Key highlights:_
 ---
 
 ## Used Models
-**YOLOv3:** https://github.com/Mahdiyehjlz/Computer_Vision/blob/main/YOLOv3-CPU
 
 **YOLOv8n:** https://github.com/Mahdiyehjlz/Computer_Vision/blob/main/YOLOv8-CPU
 
@@ -63,8 +62,7 @@ _Key highlights:_
 ---
 
 ## Key Achievements
-
-- 🚀 **YOLOv3**: Initial experiments, limited performance gains  
+ 
 - ✅ **YOLOv8x & YOLOv11x**: Full training and benchmarking  
 - 🖥️ **Real-time Demo**: Dirt detection via webcam on MacBook  
 
