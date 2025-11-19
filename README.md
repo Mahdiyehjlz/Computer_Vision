@@ -57,7 +57,7 @@ _Key highlights:_
 ---
 
 ## Used Models
-**YOLOv3:** https://github.com/ipa-robotics-courses/2025_p08_dirt_detection/blob/main/YOLOv3-CPU
+**YOLOv3:** https://github.com/Mahdiyehjlz/Computer_Vision/blob/main/YOLOv3-CPU
 
 **YOLOv8n:** https://github.com/ipa-robotics-courses/2025_p08_dirt_detection/blob/main/YOLOv8-CPU
 
