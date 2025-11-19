@@ -61,7 +61,7 @@ _Key highlights:_
 
 **YOLOv8n:** https://github.com/ipa-robotics-courses/2025_p08_dirt_detection/blob/main/YOLOv8-CPU
 
-**YOLOv8x:** https://github.com/ipa-robotics-courses/2025_p08_dirt_detection/blob/main/train_yolov8.py
+**YOLOv8x:** https://github.com/Mahdiyehjlz/Computer_Vision/blob/main/train_yolov8.py
 
 **YOLOv11x:** https://github.com/Mahdiyehjlz/Computer_Vision/blob/main/train_yolov11.py
 
