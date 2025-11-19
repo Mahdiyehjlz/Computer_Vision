@@ -2,7 +2,6 @@
 This Project includes the Python based deep learning for object and dirt detection robot in YOLO Ftamework:
 
 
-# 2025_p08_dirt_detection
 
 ![YOLO Dirt Detection](https://img.shields.io/badge/YOLOv8%20%7C%20YOLOv11-Dirt%20Detection-blue)
 
