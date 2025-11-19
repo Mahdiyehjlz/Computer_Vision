@@ -72,8 +72,5 @@ _Key highlights:_
 
 ## Usage
 
-1. **Clone the repo**  
-   ```bash
-   git clone git@github.com:ipa-robotics-courses/2025_p08_dirt_detection.git
-   cd 2025_p08_dirt_detection
+
 
