@@ -1,0 +1,20 @@
+train: largest_training_set/blended_floor_images/training/blended_floor_images/images/train
+val:   largest_training_set/blended_floor_images/training/blended_floor_images/images/valid
+
+# number of classes
+nc: 10
+
+# class names in order
+names: [
+  'business_cards',
+  'dirt',
+  'keys',
+  'other',
+  'paper_and_notebooks',
+  'pens',
+  'rulers',
+  'scissors',
+  'tapes',
+  'usb_sticks'
+]
+
