@@ -23,8 +23,8 @@ We explore state-of-the-art object detection for spotting dirt on surfaces, eval
 
 ## Team Members
 
-- **Mahdiyeh “Mahla” Jalilzadeh** (`3821037`)  
-- **Muhammad Danish Ashraf** (`3820287`)
+- **Mahdiyeh “Mahla” Jalilzadeh** 
+- **Muhammad Danish Ashraf** 
 
 ---
 
